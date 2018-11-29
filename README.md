@@ -7,7 +7,7 @@ Package license: MIT
 
 Feedstock license: BSD 3-Clause
 
-Summary: Fork of pathlib aiming to support the full stdlib Python API.
+Summary: Fork of pathlib aiming to support the full stdlib Python API
 
 
 
