@@ -21,8 +21,9 @@ requirements:
     - pip
   run:
     - python
-    - six
-    - scandir  # [py27]
+    - scandir  # [py<35]
+    - six >=1.13.0
+    - typing  # [py<35]
 
 test:
   imports:
