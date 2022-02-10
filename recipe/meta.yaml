@@ -1,4 +1,4 @@
-{% set version = "2.3.7.post0" %}
+{% set version = "2.3.7.post1" %}
 
 package:
   name: pathlib2
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/p/pathlib2/pathlib2-{{ version }}.tar.gz
-  sha256: 3207eb068c994a04998c42a34ae01c81c8d1d50eb88d7371f57fee61d1822302
+  sha256: 9fe0edad898b83c0c3e199c842b27ed216645d2e177757b2dd67384d4113c641
 
 build:
   number: 0
